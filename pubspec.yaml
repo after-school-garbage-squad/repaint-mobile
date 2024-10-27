@@ -82,7 +82,7 @@ dependencies:
 dev_dependencies:
   auto_route_generator: ^7.3.0
   build_runner: ^2.4.6
-  custom_lint: ^0.5.2
+  custom_lint: ^0.7.0
   dependency_validator: ^3.2.3
   flutter_oss_licenses: ^2.0.1
   flutter_test:
